@@ -4,7 +4,7 @@
 This project demonstrates DHCP configuration using a router to automatically assign IP addresses to devices in the network.
 
 ## Topology
-![Topology](screenshots/topology.png)
+![Topology](Screenshots/topology.png)
 
 ## Network Design
 - 1 Router
@@ -28,7 +28,7 @@ Key commands used:
 - dns-server 8.8.8.8
 
 ## Testing
-![Ping Test](screenshots/ping-test.png)
+![Ping Test](Screenshots/ping-test.png)
 
 - All PCs received IP addresses automatically
 - Devices successfully communicated using assigned IPs

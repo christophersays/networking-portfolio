@@ -4,7 +4,7 @@
 This project demonstrates a multi-floor network where VLANs are used to segment devices across three different floors.
 
 ## Topology
-![Topology](screenshots/topology.png)
+![Topology](Screenshots/topology.png)
 
 ## What I Did
 - Created VLAN 10 and VLAN 20 on all switches

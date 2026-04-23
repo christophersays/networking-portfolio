@@ -4,7 +4,7 @@
 This project demonstrates VLAN segmentation with inter-VLAN communication using router-on-a-stick (encapsulation).
 
 ## Topology
-![Topology](screenshots/topology.png)
+![Topology](Screenshots/topology.png)
 
 ## Network Design
 - VLAN 90 → 192.168.20.0/27
@@ -37,7 +37,7 @@ Router:
 - ip address 192.168.20.65 255.255.255.224
 
 ## Testing
-![Ping Test](screenshots/ping-test.png)
+![Ping Test](Screenshots/ping-test.png)
 
 - Devices across different VLANs communicated successfully
 - Inter-VLAN routing verified using ping

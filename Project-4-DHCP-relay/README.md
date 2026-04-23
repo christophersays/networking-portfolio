@@ -4,7 +4,7 @@
 This project demonstrates DHCP relay configuration where a centralized DHCP server assigns IP addresses to clients across different networks.
 
 ## Topology
-![Topology](screenshots/topology.png)
+![Topology](Screenshots/topology.png)
 
 ## Network Design
 - 3 Routers
@@ -33,7 +33,7 @@ Server:
 - Created address pools for each subnet
 
 ## Testing
-![Ping Test](screenshots/ping-test.png)
+![Ping Test](Screenshots/ping-test.png)
 
 - PCs received IP addresses from the remote DHCP server
 - Communication between devices across networks was successful

@@ -21,7 +21,7 @@ Basic commands used:
 - switchport mode trunk
 
 ## Testing
-![Ping Test](screenshots/ping-test.png)
+![Ping Test](Screenshots/ping-test.png)
 
 - Devices in the same VLAN communicated successfully (even across floors)
 - Devices in different VLANs were isolated
